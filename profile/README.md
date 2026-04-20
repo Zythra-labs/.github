@@ -1,6 +1,6 @@
 # Zythra Labs
 
-![Zythra Labs Banner](./assets/banner.png)
+![Zythra Labs Banner](https://raw.githubusercontent.com/Zythra-labs/.github/main/assets/banner.png)
 
 **Trust Infrastructure for the Agentic Economy**
 
